@@ -1,0 +1,143 @@
+[
+    {
+      "id": 1,
+      "productName": "Laptop",
+      "productDescription": "Powerful laptop with high-performance specifications.",
+      "price": 999.99,
+      "availabilityStatus": true
+    },
+    {
+      "id": 2,
+      "productName": "Smartphone",
+      "productDescription": "Latest smartphone with advanced features.",
+      "price": 699.99,
+      "availabilityStatus": true
+    },
+    {
+      "id": 3,
+      "productName": "Headphones",
+      "productDescription": "Wireless noise-canceling headphones for an immersive audio experience.",
+      "price": 149.99,
+      "availabilityStatus": false
+    },
+    {
+      "id": 4,
+      "productName": "Smart Watch",
+      "productDescription": "Fitness tracker and smartwatch with health monitoring features.",
+      "price": 129.99,
+      "availabilityStatus": true
+    },
+    {
+      "id": 5,
+      "productName": "Gaming Console",
+      "productDescription": "Next-gen gaming console for an unparalleled gaming experience.",
+      "price": 499.99,
+      "availabilityStatus": true
+    },
+    {
+      "id": 6,
+      "productName": "4K Smart TV",
+      "productDescription": "Ultra HD smart television with a sleek design.",
+      "price": 799.99,
+      "availabilityStatus": true
+    },
+    {
+      "id": 7,
+      "productName": "Digital Camera",
+      "productDescription": "High-resolution digital camera for professional photography.",
+      "price": 599.99,
+      "availabilityStatus": true
+    },
+    {
+      "id": 8,
+      "productName": "Wireless Mouse",
+      "productDescription": "Ergonomic wireless mouse for comfortable computer use.",
+      "price": 29.99,
+      "availabilityStatus": true
+    },
+    {
+      "id": 9,
+      "productName": "External Hard Drive",
+      "productDescription": "Large-capacity external hard drive for data storage.",
+      "price": 129.99,
+      "availabilityStatus": true
+    },
+    {
+      "id": 10,
+      "productName": "Bluetooth Speaker",
+      "productDescription": "Portable Bluetooth speaker for on-the-go music.",
+      "price": 79.99,
+      "availabilityStatus": true
+    },
+    {
+      "id": 11,
+      "productName": "Coffee Maker",
+      "productDescription": "Automatic coffee maker for brewing the perfect cup.",
+      "price": 49.99,
+      "availabilityStatus": true
+    },
+    {
+      "id": 12,
+      "productName": "Wireless Earbuds",
+      "productDescription": "Compact wireless earbuds with long battery life.",
+      "price": 89.99,
+      "availabilityStatus": true
+    },
+    {
+      "id": 13,
+      "productName": "Desktop Monitor",
+      "productDescription": "Large desktop monitor with high refresh rate.",
+      "price": 349.99,
+      "availabilityStatus": true
+    },
+    {
+      "id": 14,
+      "productName": "Electric Toothbrush",
+      "productDescription": "Smart electric toothbrush for effective oral care.",
+      "price": 39.99,
+      "availabilityStatus": true
+    },
+    {
+      "id": 15,
+      "productName": "Wireless Router",
+      "productDescription": "High-speed wireless router for seamless internet connectivity.",
+      "price": 99.99,
+      "availabilityStatus": true
+    },
+    {
+      "id": 16,
+      "productName": "Fitness Tracker",
+      "productDescription": "Fitness tracker with heart rate monitoring and GPS.",
+      "price": 79.99,
+      "availabilityStatus": true
+    },
+    {
+      "id": 17,
+      "productName": "Portable SSD",
+      "productDescription": "Portable solid-state drive for fast data transfer.",
+      "price": 149.99,
+      "availabilityStatus": true
+    },
+    {
+      "id": 18,
+      "productName": "Air Purifier",
+      "productDescription": "Home air purifier for clean and fresh air.",
+      "price": 199.99,
+      "availabilityStatus": true
+    },
+    {
+      "id": 19,
+      "productName": "Smart Thermostat",
+      "productDescription": "Energy-efficient smart thermostat for climate control.",
+      "price": 129.99,
+      "availabilityStatus": true
+    },
+    {
+      "id": 20,
+      "productName": "Electric Scooter",
+      "productDescription": "Foldable electric scooter for convenient urban commuting.",
+      "price": 299.99,
+      "availabilityStatus": true
+    }
+  ]
+  
